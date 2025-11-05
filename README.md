@@ -1,5 +1,8 @@
 # magmavolume
 
+My Referral Link:  
+https://app.magmafinance.io/point?referral_code=NYUBQF
+
 To install dependencies:
 
 ```bash
